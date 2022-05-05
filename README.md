@@ -2,9 +2,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 [![Alt text](https://img.youtube.com/vi/FqOa98i5jUg/0.jpg)](https://www.youtube.com/watch?v=FqOa98i5jUg)
 
-## Available Scripts
+# Cambios Y mejoras al Aplicativo
 
-In the project directory, you can run:
+1. implementacion del LocalStorage *obligatorio
 
 ### `npm start`
 
